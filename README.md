@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CodewithRaden
+- 👀 I’m interested in Programming, Network and Creative Work
+- 🌱 I’m currently learning in Jakarta State Polytechnic
+- 💞️ I’m looking to collaborate on ??
+- 📫 How to reach me DM me in Ig : fadil_azhar21
