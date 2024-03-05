@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/radenfadil21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="radenfadil21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raden fadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raden fadil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raden-fadil-48229418b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raden fadil" height="30" width="40" /></a>
 <a href="https://fb.com/fadil azhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fadil azhar" height="30" width="40" /></a>
 <a href="https://instagram.com/fadil_azhar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadil_azhar21" height="30" width="40" /></a>
 <a href="https://discord.gg/418313992692432897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="418313992692432897" height="30" width="40" /></a>
